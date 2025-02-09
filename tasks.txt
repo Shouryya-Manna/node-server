@@ -1,0 +1,6 @@
+TO DO
+
+REST API
+
+1.GET/user => List all users 
+
