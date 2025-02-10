@@ -26,14 +26,17 @@ app.route("/api/users/:id")
     return res.json(user);
 })
 .patch((req,res)=>{
+    //edit the user details
     return res.json({status:"pending"});
 })
 .delete((req,res)=>{
+    //delete user
     return res.json({status:"pending"});
 });
 
 
 app.post("/api/users",(req,res)=>{
+    //create user
     return res.json({status:"pending"});
 });
 
