@@ -1,0 +1,32 @@
+
+ 1740646829912:::1 GET: /
+
+ 1740646876860:::1 GET: /
+
+ 1740646958760:::1 GET: /users
+
+ 1740646967248:::1 GET: /user
+
+ 1740646967322:::1 GET: /favicon.ico
+
+ 1740646994801:::1 GET: /api/user
+
+ 1740647002603:::1 GET: /user
+
+ 1740647346180:::1 GET: /favicon.ico
+
+ 1740647349181:::1 GET: /api/users
+
+ 1740647357789:::1 GET: /api/users
+
+ 1740647373900:::1 POST: /api/users
+
+ 1740647385564:::1 GET: /api/users/67c02bcd1d8978c6c328b1b4
+
+ 1740647394857:::1 DELETE: /api/users/67c02bcd1d8978c6c328b1b4
+
+ 1740647478754:::1 GET: /api/users
+
+ 1740647486208:::1 POST: /api/users
+
+ 1740647495507:::1 GET: /api/users
